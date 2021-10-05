@@ -53,6 +53,7 @@ public class StringsExercises {
         String lastNameY = "Doe";
         System.out.println(firstNameY.indexOf(lastNameY));
 
+        System.out.println("---------------");
 
 
 // *********************************************************************************************************************

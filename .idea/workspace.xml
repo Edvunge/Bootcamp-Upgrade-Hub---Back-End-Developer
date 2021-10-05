@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d46d4cd1-c28e-4c51-9cbb-9155f066e625" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringsExercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperationsExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OperationsExercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
-    </list>
+    <list default="true" id="d46d4cd1-c28e-4c51-9cbb-9155f066e625" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.OperationsExercises">
+  <component name="RunManager" selected="Application.StringsExercises">
     <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataTypes" />
       <module name="Bootcamp Upgrade-Hub  - Back-End Developer" />
@@ -58,6 +50,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringsExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsExercises" />
+      <module name="Bootcamp Upgrade-Hub  - Back-End Developer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Variables" />
       <module name="Bootcamp Upgrade-Hub  - Back-End Developer" />
@@ -67,6 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringsExercises" />
         <item itemvalue="Application.OperationsExercises" />
         <item itemvalue="Application.DataTypes" />
         <item itemvalue="Application.Variables" />
@@ -85,33 +85,46 @@
       <option name="presentableId" value="Default" />
       <updated>1633435295572</updated>
     </task>
+    <task id="LOCAL-00001" summary="secomd commit">
+      <created>1633443984599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633443984599</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="secomd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="secomd commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="138" y="23" key="CommitChangelistDialog2" timestamp="1633443983088">
-      <screen x="0" y="23" width="1280" height="729" />
+    <state x="138" y="23" key="CommitChangelistDialog2" timestamp="1633444676042">
+      <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state x="138" y="23" key="CommitChangelistDialog2/0.23.1280.729@0.23.1280.729" timestamp="1633443983088" />
-    <state width="1238" height="181" key="GridCell.Tab.0.bottom" timestamp="1633442512417">
+    <state x="138" y="23" key="CommitChangelistDialog2/0.23.1280.730@0.23.1280.730" timestamp="1633444676042" />
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom" timestamp="1633444869874">
       <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1633438356449" />
-    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1633442512417" />
-    <state width="1238" height="181" key="GridCell.Tab.0.center" timestamp="1633442512415">
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1633444869874" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center" timestamp="1633444869872">
       <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1633438356446" />
-    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1633442512415" />
-    <state width="1238" height="181" key="GridCell.Tab.0.left" timestamp="1633442512414">
+    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1633444869872" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left" timestamp="1633444869872">
       <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1633438356445" />
-    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1633442512414" />
-    <state width="1238" height="181" key="GridCell.Tab.0.right" timestamp="1633442512417">
+    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1633444869872" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right" timestamp="1633444869873">
       <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1633438356447" />
-    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1633442512417" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1633444869873" />
     <state x="240" y="127" key="Vcs.Push.Dialog.v2" timestamp="1633444033792">
       <screen x="0" y="23" width="1280" height="729" />
     </state>
