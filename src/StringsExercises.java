@@ -9,7 +9,7 @@ public class StringsExercises {
         String greeting = "Hello";
 
         System.out.println(greeting);
-
+        System.out.println("---------------");
 
 
 // *********************************************************************************************************************
@@ -19,6 +19,7 @@ public class StringsExercises {
 
         String txt = "Hello";
         System.out.println(txt.length());
+        System.out.println("---------------");
 
 
 
@@ -30,6 +31,7 @@ public class StringsExercises {
 
         String txts = "Hello";
         System.out.println(txts.toUpperCase());
+        System.out.println("---------------");
 
 
 
@@ -42,6 +44,7 @@ public class StringsExercises {
         String firstName = "John ";
         String lastName = "Doe";
         System.out.println(firstName + lastName);
+        System.out.println("---------------");
 
 
 
@@ -63,6 +66,7 @@ public class StringsExercises {
 
         String txtxs = "Hello Everybody";
         System.out.println(txtxs.indexOf(txtxs));
+        System.out.println("---------------");
 
 
     }
