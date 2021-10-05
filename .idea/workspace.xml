@@ -88,6 +88,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="138" y="23" key="CommitChangelistDialog2" timestamp="1633443983088">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="138" y="23" key="CommitChangelistDialog2/0.23.1280.729@0.23.1280.729" timestamp="1633443983088" />
     <state width="1238" height="181" key="GridCell.Tab.0.bottom" timestamp="1633442512417">
       <screen x="0" y="23" width="1280" height="730" />
     </state>
@@ -108,5 +112,9 @@
     </state>
     <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1633438356447" />
     <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1633442512417" />
+    <state x="240" y="127" key="Vcs.Push.Dialog.v2" timestamp="1633444033792">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="240" y="127" key="Vcs.Push.Dialog.v2/0.23.1280.729@0.23.1280.729" timestamp="1633444033792" />
   </component>
 </project>
