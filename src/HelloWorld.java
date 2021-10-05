@@ -1,4 +1,9 @@
 public class HelloWorld {
+
+// *********************************************************************************************************************
+
+
+
 //    Insert the missing part of the code below to output "Hello World".
 
 
@@ -7,6 +12,10 @@ public class HelloWorld {
         }
 
 //    Comments in Java are written with special characters. Insert the missing parts:
+
+
+// *********************************************************************************************************************
+
 
 
     // This is a single-line comment

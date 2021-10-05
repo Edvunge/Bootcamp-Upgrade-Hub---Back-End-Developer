@@ -1,6 +1,8 @@
 public class DataTypes {
     public static void main(String[] args){
 
+// *********************************************************************************************************************
+
 //   Add the correct data type for the following variables:
 
 
@@ -11,8 +13,14 @@ public class DataTypes {
         String myText = "Hello World";
 
 
+// *********************************************************************************************************************
+
 // byte, short, int, long, float, double, boolean and char are called:
 //        byte data types
+
+
+
+// *********************************************************************************************************************
 
 //  Type casting - convert the following double type (myDouble) to an int type:
 
