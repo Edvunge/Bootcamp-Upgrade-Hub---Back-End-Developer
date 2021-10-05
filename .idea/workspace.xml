@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46d4cd1-c28e-4c51-9cbb-9155f066e625" name="Default Changelist" comment="secomd commit">
-      <change afterPath="$PROJECT_DIR$/src/SwitchExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise07DiaMulher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ArrayExercises">
+  <component name="RunManager" selected="Application.Exercise01CarVelocity">
     <configuration name="ArrayExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayExercises" />
       <module name="Bootcamp Upgrade-Hub  - Back-End Developer" />
@@ -39,8 +39,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BooleansExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BooleansExercises" />
+    <configuration name="Exercise01CarVelocity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise01CarVelocity" />
       <module name="Bootcamp Upgrade-Hub  - Back-End Developer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,11 +69,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise01CarVelocity" />
         <item itemvalue="Application.ArrayExercises" />
         <item itemvalue="Application.LoopsExercises" />
         <item itemvalue="Application.SwitchExercises" />
         <item itemvalue="Application.IfsElseExercises" />
-        <item itemvalue="Application.BooleansExercises" />
       </list>
     </recent_temporary>
   </component>
@@ -108,29 +108,29 @@
     </state>
     <state x="138" y="23" key="CommitChangelistDialog2/0.23.1280.729@0.23.1280.729" timestamp="1633443983088" />
     <state x="138" y="23" key="CommitChangelistDialog2/0.23.1280.730@0.23.1280.730" timestamp="1633444676042" />
-    <state width="1238" height="230" key="GridCell.Tab.0.bottom" timestamp="1633453858494">
-      <screen x="0" y="23" width="1280" height="728" />
+    <state width="1238" height="230" key="GridCell.Tab.0.bottom" timestamp="1633459230000">
+      <screen x="0" y="23" width="1280" height="729" />
     </state>
     <state width="1238" height="230" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1633453858494" />
-    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1633446323969" />
+    <state width="1238" height="230" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1633459230000" />
     <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1633444869874" />
-    <state width="1238" height="230" key="GridCell.Tab.0.center" timestamp="1633453858492">
-      <screen x="0" y="23" width="1280" height="728" />
+    <state width="1238" height="230" key="GridCell.Tab.0.center" timestamp="1633459229994">
+      <screen x="0" y="23" width="1280" height="729" />
     </state>
     <state width="1238" height="230" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1633453858492" />
-    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1633446323967" />
+    <state width="1238" height="230" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1633459229994" />
     <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1633444869872" />
-    <state width="1238" height="230" key="GridCell.Tab.0.left" timestamp="1633453858492">
-      <screen x="0" y="23" width="1280" height="728" />
+    <state width="1238" height="230" key="GridCell.Tab.0.left" timestamp="1633459229993">
+      <screen x="0" y="23" width="1280" height="729" />
     </state>
     <state width="1238" height="230" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1633453858492" />
-    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1633446323966" />
+    <state width="1238" height="230" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1633459229993" />
     <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1633444869872" />
-    <state width="1238" height="230" key="GridCell.Tab.0.right" timestamp="1633453858493">
-      <screen x="0" y="23" width="1280" height="728" />
+    <state width="1238" height="230" key="GridCell.Tab.0.right" timestamp="1633459229995">
+      <screen x="0" y="23" width="1280" height="729" />
     </state>
     <state width="1238" height="230" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1633453858493" />
-    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1633446323968" />
+    <state width="1238" height="230" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1633459229995" />
     <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1633444869873" />
     <state x="240" y="127" key="Vcs.Push.Dialog.v2" timestamp="1633444033792">
       <screen x="0" y="23" width="1280" height="729" />
