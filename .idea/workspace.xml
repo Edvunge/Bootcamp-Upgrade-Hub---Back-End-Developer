@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46d4cd1-c28e-4c51-9cbb-9155f066e625" name="Default Changelist" comment="secomd commit">
+      <change afterPath="$PROJECT_DIR$/src/Exercicio09SegmentoReta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercicioDoisInteiros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises10AprovadoReprovado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises11TerrenoRetangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises12AumentoSalarial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises13Triangulos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises14PedraPapelTisoura.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise06AlistamentoMilitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise06AlistamentoMilitar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
