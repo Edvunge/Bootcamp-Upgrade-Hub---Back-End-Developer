@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46d4cd1-c28e-4c51-9cbb-9155f066e625" name="Default Changelist" comment="secomd commit">
-      <change afterPath="$PROJECT_DIR$/src/Exercicio09SegmentoReta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercicioDoisInteiros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises10AprovadoReprovado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises11TerrenoRetangular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises12AumentoSalarial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises13Triangulos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises14PedraPapelTisoura.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercicioDoisInteiros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExercicioDoisInteiros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +31,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Exercise06AlistamentoMilitar">
-    <configuration name="Exercise02ElectoralProgramam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise02ElectoralProgramam" />
+  <component name="RunManager" selected="Application.ExercicioDoisInteiros">
+    <configuration name="ExercicioDoisInteiros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercicioDoisInteiros" />
       <module name="Bootcamp Upgrade-Hub  - Back-End Developer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +69,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExercicioDoisInteiros" />
         <item itemvalue="Application.Exercise06AlistamentoMilitar" />
         <item itemvalue="Application.Exercise05AnoBissexto" />
         <item itemvalue="Application.Exercise04ParImpar" />
         <item itemvalue="Application.Exercise03CalcMedia" />
-        <item itemvalue="Application.Exercise02ElectoralProgramam" />
       </list>
     </recent_temporary>
   </component>
@@ -114,33 +108,37 @@
     </state>
     <state x="138" y="23" key="CommitChangelistDialog2/0.23.1280.729@0.23.1280.729" timestamp="1633443983088" />
     <state x="138" y="23" key="CommitChangelistDialog2/0.23.1280.730@0.23.1280.730" timestamp="1633444676042" />
-    <state width="1238" height="151" key="GridCell.Tab.0.bottom" timestamp="1633476592625">
-      <screen x="0" y="23" width="1280" height="730" />
+    <state width="1238" height="151" key="GridCell.Tab.0.bottom" timestamp="1633549743325">
+      <screen x="0" y="23" width="1280" height="729" />
     </state>
     <state width="1238" height="230" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1633453858494" />
-    <state width="1238" height="217" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1633471461078" />
+    <state width="1238" height="151" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1633549743325" />
     <state width="1238" height="151" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1633476592625" />
-    <state width="1238" height="151" key="GridCell.Tab.0.center" timestamp="1633476592624">
-      <screen x="0" y="23" width="1280" height="730" />
+    <state width="1238" height="151" key="GridCell.Tab.0.center" timestamp="1633549743324">
+      <screen x="0" y="23" width="1280" height="729" />
     </state>
     <state width="1238" height="230" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1633453858492" />
-    <state width="1238" height="217" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1633471461077" />
+    <state width="1238" height="151" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1633549743324" />
     <state width="1238" height="151" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1633476592624" />
-    <state width="1238" height="151" key="GridCell.Tab.0.left" timestamp="1633476592624">
-      <screen x="0" y="23" width="1280" height="730" />
+    <state width="1238" height="151" key="GridCell.Tab.0.left" timestamp="1633549743323">
+      <screen x="0" y="23" width="1280" height="729" />
     </state>
     <state width="1238" height="230" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1633453858492" />
-    <state width="1238" height="217" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1633471461076" />
+    <state width="1238" height="151" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1633549743323" />
     <state width="1238" height="151" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1633476592624" />
-    <state width="1238" height="151" key="GridCell.Tab.0.right" timestamp="1633476592625">
-      <screen x="0" y="23" width="1280" height="730" />
+    <state width="1238" height="151" key="GridCell.Tab.0.right" timestamp="1633549743324">
+      <screen x="0" y="23" width="1280" height="729" />
     </state>
     <state width="1238" height="230" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1633453858493" />
-    <state width="1238" height="217" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1633471461077" />
+    <state width="1238" height="151" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1633549743324" />
     <state width="1238" height="151" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1633476592625" />
     <state x="240" y="127" key="Vcs.Push.Dialog.v2" timestamp="1633444033792">
       <screen x="0" y="23" width="1280" height="729" />
     </state>
     <state x="240" y="127" key="Vcs.Push.Dialog.v2/0.23.1280.729@0.23.1280.729" timestamp="1633444033792" />
+    <state x="333" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1633547351276">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="333" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.729@0.23.1280.729" timestamp="1633547351276" />
   </component>
 </project>
