@@ -10,7 +10,7 @@ public class Exercises12AumentoSalarial {
         - 10 anos ou mais: aumento de 20%
         */
 
-       
+
         double aumentoSalarial;
         double salario;
         int anosEmpresa;
@@ -28,12 +28,6 @@ public class Exercises12AumentoSalarial {
 
         System.out.println(" Insira os anos que trabalhas na empresa:? ");
         anosEmpresa = input.nextInt();
-
-        /*
-        -  Até 3 anos de empresa: aumento de 3%
-        -  entre 3 e 10 anos: aumento de 12.5%
-        -  10 anos ou mais: aumento de 20%
-        */
 
         if( anosEmpresa < 3){
            aumentoSalarial = salario + 3;
